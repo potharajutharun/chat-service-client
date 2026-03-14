@@ -62,10 +62,9 @@ type ActiveSectionContentProps = {
 export function ActiveSectionContent({
   activeSection,
   viewMode,
-  notesViewProps,
   conversationBuilderProps,
   feedbackProps,
-  chatWorkspaceProps,
+  chatWorkspaceProps, 
   callViewProps,
   settingsProps,
 }: ActiveSectionContentProps) {

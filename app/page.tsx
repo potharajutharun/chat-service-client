@@ -1062,6 +1062,7 @@ export default function Home() {
           onDeleteNote={handleDeleteNote}
           onEditNote={handleEditNote}
           onSaveNote={handleSaveNote}
+          isNotesSaving={isNotesSaving}
         />
         )}
         <ActiveSectionContent
