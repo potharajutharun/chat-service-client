@@ -1,0 +1,14 @@
+[
+  {
+    "noteId": "note-001",
+    "content": "Remember to run the migration before releasing new endpoints.",
+    "createdAt": "2026-03-10T11:04:00Z",
+    "authorId": 1
+  },
+  {
+    "noteId": "note-002",
+    "content": "Call with the infra team on Thursday to discuss queue limits.",
+    "createdAt": "2026-03-11T14:20:00Z",
+    "authorId": 2
+  }
+]

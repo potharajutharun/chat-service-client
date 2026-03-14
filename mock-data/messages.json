@@ -1,0 +1,26 @@
+[
+  {
+    "messageId": "b2b781b1-d475-4b68-aa5e-53741b0c164e",
+    "conversationId": "85333a79-4ea4-405c-9ad0-c146afcc317f",
+    "senderId": 1,
+    "messageText": "Hello! How can I help today?",
+    "messageType": "text",
+    "createdAt": "2026-03-11T20:03:12"
+  },
+  {
+    "messageId": "c909f2e3-8dc0-4a9c-9d68-4c4d604df10c",
+    "conversationId": "85333a79-4ea4-405c-9ad0-c146afcc317f",
+    "senderId": 2,
+    "messageText": "Can you share the latest status on the API work?",
+    "messageType": "text",
+    "createdAt": "2026-03-11T20:05:01"
+  },
+  {
+    "messageId": "d14a3f88-3a21-4d92-ae5e-8dccf2dea1fc",
+    "conversationId": "85333a79-4ea4-405c-9ad0-c146afcc317f",
+    "senderId": 1,
+    "messageText": "Sure, the backend is up and new chat UI is on staging.",
+    "messageType": "text",
+    "createdAt": "2026-03-11T20:06:30"
+  }
+]
